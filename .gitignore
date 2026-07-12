@@ -1,0 +1,31 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files (submission only)
+*.zip
+
+# PDF task document (not needed in repo)
+Week 3 & 4 Project.pdf
+
+# Submission folder (duplicate)
+SalesForecasting_Dhruv/
+
+# Temp folders
+new2/
+
+# HTML summary (PDF version is included)
+summary.html
