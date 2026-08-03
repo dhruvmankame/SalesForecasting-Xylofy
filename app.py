@@ -117,7 +117,7 @@ def load_data():
 
 def render_footer():
     st.markdown(
-        '<div class="footer">Xylofy AI — Week 3 &amp; 4 Internship Project &nbsp;|&nbsp; Built by <b>Dhruv</b></div>',
+        '<div class="footer">Xylofy AI — Week 3 &amp; 4 Internship Project &nbsp;|&nbsp; Built by <b>Dhruv Mankame</b></div>',
         unsafe_allow_html=True,
     )
 
